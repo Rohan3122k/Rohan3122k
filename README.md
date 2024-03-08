@@ -1,6 +1,6 @@
 ### Hi there, it's Stanley 👋 
 
-I am an UK-based data consultant whose role oscillates between that of a data analyst and a data engineer. I specialize in delivering high-quality data projects to the companies I serve. As I enter my second year in this field, I have demonstrated a strong ability to learn and have received numerous positive feedback from both my company and clients. I am committed to continuous learning and staying updated with the latest developments in the dynamic world of data technology. 
+I am an UK-based data consultant whose role oscillates between that of a data analyst and a data engineer. I specialize in delivering high-quality data projects to the companies I serve. I have demonstrated a strong ability to learn and have received numerous positive feedback from both my company and clients. I am committed to continuous learning and staying updated with the latest developments in the dynamic world of data technology. 
 
 - 🔭 I’m currently sharpening my skill on data analystics and enginneering
 - 🌱 I’m currently learning airflow
