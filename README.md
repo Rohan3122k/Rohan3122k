@@ -5,7 +5,7 @@ I am an UK-based data consultant whose role oscillates between that of a data an
 - 🔭 I’m currently sharpening my skill on data analystics and enginneering
 - 🌱 I’m currently learning airflow
 - 💬 Opoen to discuss about BI solutions, dashboard, and ETL pipeline
-- 📫 Reach me in [LinkedIn](https://www.linkedin.com/in/staneykinnok-chan/)!
+- 📫 Reach me in [LinkedIn](https://www.linkedin.com/in/staneykinnok-chan/) or by email stanleykinnok.chan@gmail.com
 - ⚡ Fun fact: Apart from being a data enthusiast, I love Janpanese culture, nature, Jujitsu and cooking!
 
 My stack:
