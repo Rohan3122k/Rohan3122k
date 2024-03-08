@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, it's Stanley 👋 
 
-<!--
-**StanleyKinnokChan/StanleyKinnokChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an UK-based data consultant whose role oscillates between that of a data analyst and a data engineer. I specialize in delivering high-quality data projects to the companies I serve. As I enter my second year in this field, I have demonstrated a strong ability to learn and have received numerous positive feedback from both my company and clients. I am committed to continuous learning and staying updated with the latest developments in the dynamic world of data technology. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently sharpening my skill on data analystics and enginneering
+- 🌱 I’m currently learning airflow
+- 💬 Opoen to discuss about BI solutions, dashboard, and ETL pipeline
+- 📫 Reach me in [LinkedIn](https://www.linkedin.com/in/staneykinnok-chan/)!
+- ⚡ Fun fact: Apart from being a data enthusiast, I love Janpanese culture, nature, Jujitsu and cooking!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My stack:
+- PowerBI
+- Tableau
+- Snowflake
+- SQL server
+- AWS
+- Alteryx
+- DBT
+- Git
+- Python
