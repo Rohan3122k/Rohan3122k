@@ -2,12 +2,13 @@
 
 I am an UK-based data consultant whose role oscillates between that of a data analyst and a data engineer. I specialize in delivering high-quality data projects to the companies I serve. I have demonstrated a strong ability to learn and have received numerous positive feedback from both my company and clients. I am committed to continuous learning and staying updated with the latest developments in the dynamic world of data technology. 
 
-Fun fact: Apart from being a data enthusiast, I love Janpanese culture, nature, Jujitsu and cooking!
-
 - 🔭 I’m currently sharpening my skill on data analystics and enginneering
 - 🌱 I’m currently learning airflow
 - 💬 Opoen to discuss about BI solutions, dashboard, and ETL pipeline
 - 📫 Reach me in [LinkedIn](https://www.linkedin.com/in/staneykinnok-chan/) or by email stanleykinnok.chan@gmail.com
+
+
+**Out of Work fun fact:** Apart from being a data enthusiast, I love Janpanese culture, nature, Jujitsu and cooking!
 
 ## 🏅 Tech Certifications:
 - [![PowerBI](https://img.shields.io/badge/Power_BI-Power_BI_Data_Analyst_Associate-FEB800)](https://www.credly.com/badges/271b6df2-3979-436d-b97e-3303f83e0a89/linked_in_profile)
