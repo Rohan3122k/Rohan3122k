@@ -1,3 +1,5 @@
+![:name](https://count.getloli.com/get/@:StanleyKinnokChan)
+
 ```
 ███████╗████████╗ █████╗ ███╗   ██╗██╗     ███████╗██╗   ██╗     ██████╗██╗  ██╗ █████╗ ███╗   ██╗
 ██╔════╝╚══██╔══╝██╔══██╗████╗  ██║██║     ██╔════╝╚██╗ ██╔╝    ██╔════╝██║  ██║██╔══██╗████╗  ██║
@@ -11,13 +13,21 @@
 
 Stanley is an UK-based data consultant whose role oscillates between that of a data analyst and a data engineer. He specialize in delivering high-quality data projects to the companies he serve. He has demonstrated a strong ability to learn and have received numerous positive feedback from both his company and clients. He is committed to continuous learning and staying updated with the latest developments in the dynamic world of data technology. 
 
+
+<img align="right" alt="GIF" src="https://i.giphy.com/xT9C25UNTwfZuk85WP.webp" width="300px"/>
+  
+
 - 🔭 He's currently sharpening my skill on data analystics and enginneering
+  
 - 🌱 He's currently learning airflow
+  
 - 💬 He's open to discuss about BI solutions, dashboard, and ETL pipeline
+  
 - 📫 Reach him in [LinkedIn](https://www.linkedin.com/in/staneykinnok-chan/) or by email stanleykinnok.chan@gmail.com
+  
 
 
-**Out of Work fun fact:** Apart from being a data enthusiast, he love Janpanese culture, nature, jujitsu and cooking!
+**Interest:** Apart from being a data enthusiast, he love Janpanese culture, nature, jujitsu and cooking!
 
 ## 🏅 Tech Certifications:
 - [![PowerBI](https://img.shields.io/badge/Power_BI-Power_BI_Data_Analyst_Associate-FEB800)](https://www.credly.com/badges/271b6df2-3979-436d-b97e-3303f83e0a89/linked_in_profile)
