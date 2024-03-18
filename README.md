@@ -54,6 +54,10 @@ Stanley is an UK-based data consultant whose role oscillates between that of a d
 <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer"> <img src="https://community.alteryx.com/t5/image/serverpage/image-id/259688iF6C1C4BD0BC11851?v=v2" alt="Alteryx" width="40" height="40"/></a>
 <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="DBT" width="40" height="40"/> </a> 
 
+**Containerization**
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://avatars.githubusercontent.com/u/5429470?s=200&v=4)" alt="Docker" width="40" height="40"/> </a>
+
 **CI/CD**
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
