@@ -56,7 +56,7 @@ Stanley is an UK-based data consultant whose role oscillates between that of a d
 
 **Containerization**
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://avatars.githubusercontent.com/u/5429470?s=200&v=4)" alt="Docker" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="40" height="40"/> </a>
 
 **CI/CD**
 
