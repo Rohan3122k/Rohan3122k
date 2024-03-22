@@ -67,8 +67,16 @@ Stanley is an UK-based data consultant whose role oscillates between that of a d
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="40" height="40"/> </a>
 
+
+<!---
+
 **CI/CD**
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+https://assets.leetcode.com/static_assets/others/Premium_SQL_50.gif
 
 
+-->
+
+## 🏆 Challenges:
+See how I did 100 SQL questions in Leetcode! <a href="https://github.com/StanleyKinnokChan/SQL/tree/main/Leetcode_SQL50" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/082d24df79b20aa88e10238938ceef5b96619c0e20c3cca349a82494a236afa0/68747470733a2f2f6173736574732e6c656574636f64652e636f6d2f7374617469635f6173736574732f6f74686572732f546f705f53514c5f35302e676966" alt="Leetcode SQL 50" width="40" height="40"/></a> <a href="https://github.com/StanleyKinnokChan/SQL/tree/main/Leetcode_Advance_SQL50" target="_blank" rel="noreferrer"> <img src="https://assets.leetcode.com/static_assets/others/Premium_SQL_50.gif" alt="Leetcode Advance SQL 50" width="40" height="40"/></a>
