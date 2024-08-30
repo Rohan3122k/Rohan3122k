@@ -10,7 +10,7 @@
                                                       
 ### Hey there, this is Stanley's Chan - The Data Consultant 👋 
 
-Stanley is an UK-based data consultant whose role oscillates between that of a data analyst and a data engineer. He specialize in delivering high-quality data projects to the companies he serve. He has demonstrated a strong ability to learn and have received numerous positive feedback from both his company and clients. He is committed to continuous learning and staying updated with the latest developments in the dynamic world of data technology. 
+Stanley is an UK-based data consultant who adepts at navigating both data analysis and engineering roles. He specialize in delivering high-quality data projects to the companies he serve. He has demonstrated a strong ability to learn and have received numerous positive feedback from both his company and clients. He is committed to continuous learning and staying updated with the latest developments in the dynamic world of data technology. 
 
 
 <img align="right" alt="GIF" src="https://i.giphy.com/xT9C25UNTwfZuk85WP.webp" width="300px"/>
