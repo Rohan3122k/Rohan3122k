@@ -58,10 +58,12 @@ Stanley is an UK-based data consultant who adepts at navigating both data analys
 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/> </a>
 
-**ETL**
+**ETL/ELT/Ochestration**
 
 <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer"> <img src="https://community.alteryx.com/t5/image/serverpage/image-id/259688iF6C1C4BD0BC11851?v=v2" alt="Alteryx" width="40" height="40"/></a>
-<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="DBT" width="40" height="40"/> </a> 
+<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="DBT" width="40" height="40"/> </a>
+<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" alt="Databrick" width="40" height="40"/> </a> 
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/airflow-icon-2048x2048-ptyvisqh.png" alt="Airflow" width="40" height="40"/> </a> 
 
 **Containerization**
 
