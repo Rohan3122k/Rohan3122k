@@ -30,9 +30,11 @@ Stanley is an UK-based data consultant who adepts at navigating both data analys
 - [![PowerBI](https://img.shields.io/badge/Power_BI-Power_BI_Data_Analyst_Associate-FEB800)](https://www.credly.com/badges/271b6df2-3979-436d-b97e-3303f83e0a89/linked_in_profile)
 - [![Tableau](https://img.shields.io/badge/Tableau-Tableau_Certified_Data_Analyst-e3455d)](https://www.credly.com/badges/bf64e896-cbf5-40d9-93d9-03d76d29e77d/linked_in_profile)
 - [![Snowflake](https://img.shields.io/badge/Snowflake-SnowPro_Core_Certification-649dd6)](https://www.credly.com/badges/d9bf93ec-b28c-4cd8-b4b1-23a15cd7b00a)
+- [![Azure](https://img.shields.io/badge/Azure-Data_Fundamental-blue)](https://learn.microsoft.com/api/credentials/share/en-us/StanleyKinnokChan-5064/F8C7864EBE86463D?sharingId=3325A3B941B41AB0)
 - [![AWS](https://img.shields.io/badge/AWS-AWS_Certified_Solutions_Architect_–_Associate_Certification-ff913d)](https://www.credly.com/badges/eda511b6-21d5-4fbb-8296-46e24fde3f80/public_url)
 - [![Alteryx](https://img.shields.io/badge/Alteryx-Alteryx_Designer_Expert_Certified-blue)](https://www.credly.com/badges/07f2b25d-3761-4b56-a5a3-703c807dcc11/public_url)
 - [![Alteryx](https://img.shields.io/badge/Alteryx-Alteryx_Server_Administration-blue)](https://www.credly.com/badges/07f2b25d-3761-4b56-a5a3-703c807dcc11/public_url)
+- [![Databrick](https://img.shields.io/badge/Databrick-Data_Engineer_Associate-ff913d)](https://www.credly.com/badges/07f2b25d-3761-4b56-a5a3-703c807dcc11/public_url)
 
 ## 🛠️ Language and Tools:
 **Language**
