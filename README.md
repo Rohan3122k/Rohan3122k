@@ -16,9 +16,7 @@ Stanley is an UK-based data consultant who adepts at navigating both data analys
 <img align="right" alt="GIF" src="https://i.giphy.com/xT9C25UNTwfZuk85WP.webp" width="300px"/>
   
 
-- 🔭 He's currently sharpening my skill on data analystics and enginneering
-  
-- 🌱 He's currently learning airflow
+- 🔭 He's currently sharpening his skill on both data analystics and enginneering
   
 - 💬 He's open to discuss about BI solutions, dashboard, and ETL pipeline
   
@@ -26,7 +24,7 @@ Stanley is an UK-based data consultant who adepts at navigating both data analys
   
 
 
-**Interest:** Apart from being a data enthusiast, he love Janpanese culture, nature, jujitsu and cooking!
+**Interest:** Apart from being a data enthusiast, he love Janpanese culture, nature exploration, jujitsu and cooking!
 
 ## 🏅 Tech Certifications:
 - [![PowerBI](https://img.shields.io/badge/Power_BI-Power_BI_Data_Analyst_Associate-FEB800)](https://www.credly.com/badges/271b6df2-3979-436d-b97e-3303f83e0a89/linked_in_profile)
