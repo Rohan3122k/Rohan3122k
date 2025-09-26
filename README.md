@@ -29,7 +29,8 @@ Rohan is a US-based data consultant with experience across both data analysis an
   
 - 💬 He's open to discuss about BI solutions, dashboard, and ETL pipeline
   
-- 📫 Reach him in [LinkedIn][([http://www.linkedin.com/in/r3122k]) or by email verma.rohan@northeastern.edu
+- 📫 Reach him on [LinkedIn](https://www.linkedin.com/in/r3122k) or by email at [verma.rohan@northeastern.edu](mailto:verma.rohan@northeastern.edu).
+
   
 
 
