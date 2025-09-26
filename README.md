@@ -38,8 +38,9 @@ Rohan is a US-based data consultant with experience across both data analysis an
 
 ## 🏅 Tech Certifications:
 - [![PowerBI](https://img.shields.io/badge/Power_BI-Power_BI_Data_Analyst_Associate-FEB800)](https://www.credly.com/badges/271b6df2-3979-436d-b97e-3303f83e0a89/linked_in_profile)
-- [![IBM](https://img.shields.io/badge/IBM-Data_Science_Professional_Certificate-0066CC)](https://www.credly.com/badges/3e1e8f2a-9b64-4b8f-bd38-6c6f5a2b19f4/linked_in_profile)
--
+- [![Tableau](https://img.shields.io/badge/Tableau-Tableau_Certified_Data_Analyst-e3455d)](https://www.credly.com/badges/bf64e896-cbf5-40d9-93d9-03d76d29e77d/linked_in_profile)
+- [![Google](https://img.shields.io/badge/Google-Data_Analytics_Certificate-34A853)](https://www.coursera.org/account/accomplishments/specialization/your-google-certificate-link)
+
 
 
 ## 🛠️ Language and Tools:
@@ -64,12 +65,12 @@ Rohan is a US-based data consultant with experience across both data analysis an
 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/> </a>
 
-**ETL/ELT/Ochestration**
+### ETL/ELT/Orchestration
+- ![Alteryx](https://img.shields.io/badge/Alteryx-Designer%20%26%20Server-blue?logo=alteryx)
+- ![DBT](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+- ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white)
+- ![Databricks](https://img.shields.io/badge/Databricks-FC3627?logo=databricks&logoColor=white)
 
-<a href="https://www.alteryx.com/" target="_blank" rel="noreferrer"> <img src="https://community.alteryx.com/t5/image/serverpage/image-id/259688iF6C1C4BD0BC11851?v=v2" alt="Alteryx" width="40" height="40"/></a>
-<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="DBT" width="40" height="40"/> </a>
-<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" alt="Databrick" width="40" height="40"/> </a> 
-<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/airflow-icon-2048x2048-ptyvisqh.png" alt="Airflow" width="40" height="40"/> </a> 
 
 **Containerization**
 
