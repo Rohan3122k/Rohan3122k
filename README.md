@@ -37,6 +37,8 @@ Rohan is a US-based data consultant with experience across both data analysis an
 **Interest:** Apart from being a data enthusiast, he love to try new coffee places, nature exploration and cooking!
 
 
+
+
 ## 🏅 Tech Certifications:
 - [![PowerBI](https://img.shields.io/badge/Power_BI-Power_BI_Data_Analyst_Associate-FEB800)](https://www.credly.com/badges/271b6df2-3979-436d-b97e-3303f83e0a89/linked_in_profile)
 - [![Tableau](https://img.shields.io/badge/Tableau-Tableau_Certified_Data_Analyst-e3455d)](https://www.credly.com/badges/bf64e896-cbf5-40d9-93d9-03d76d29e77d/linked_in_profile)
