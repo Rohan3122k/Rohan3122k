@@ -1,16 +1,18 @@
 
 ```
-███████╗████████╗ █████╗ ███╗   ██╗██╗     ███████╗██╗   ██╗     ██████╗██╗  ██╗ █████╗ ███╗   ██╗
-██╔════╝╚══██╔══╝██╔══██╗████╗  ██║██║     ██╔════╝╚██╗ ██╔╝    ██╔════╝██║  ██║██╔══██╗████╗  ██║
-███████╗   ██║   ███████║██╔██╗ ██║██║     █████╗   ╚████╔╝     ██║     ███████║███████║██╔██╗ ██║
-╚════██║   ██║   ██╔══██║██║╚██╗██║██║     ██╔══╝    ╚██╔╝      ██║     ██╔══██║██╔══██║██║╚██╗██║
-███████║   ██║   ██║  ██║██║ ╚████║███████╗███████╗   ██║       ╚██████╗██║  ██║██║  ██║██║ ╚████║
-╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝   ╚═╝        ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+██████╗  ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔═══██╗██║  ██║██╔══██╗████╗  ██║
+██████╔╝██║   ██║███████║███████║██╔██╗ ██║
+██╔  ██ ██║   ██║██╔══██║██╔══██║██║╚██╗██║
+██  ║██  ██████╔╝██║  ██║██║  ██║██║ ╚████║
+╚═╝ ╚═╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+
+
 ```
                                                       
-### Hey there, this is Stanley's Chan - The Data Consultant 👋 
+### Hey there, this is Rohan Verma - The Data Analyst/Engineer/Scientist 👋 
 
-Stanley is an UK-based data consultant who adepts at navigating both data analysis and engineering roles. He specialize in delivering high-quality data projects to the companies he serve. He has demonstrated a strong ability to learn and have received numerous positive feedback from both his company and clients. He is committed to continuous learning and staying updated with the latest developments in the dynamic world of data technology. 
+Rohan is a US-based data consultant with experience across both data analysis and engineering. He enjoys turning complex data into clear insights and building reliable systems that help businesses make better decisions. Known for his adaptability and strong learning mindset, Rohan has earned positive feedback from colleagues, clients, and leadership for consistently delivering high-quality results. He’s passionate about continuous growth and makes it a priority to stay current with the latest tools and trends in the fast-moving world of data technology.
 
 
 <img align="right" alt="GIF" src="https://i.giphy.com/xT9C25UNTwfZuk85WP.webp" width="300px"/>
@@ -20,21 +22,18 @@ Stanley is an UK-based data consultant who adepts at navigating both data analys
   
 - 💬 He's open to discuss about BI solutions, dashboard, and ETL pipeline
   
-- 📫 Reach him in [LinkedIn](https://www.linkedin.com/in/staneykinnok-chan/) or by email stanleykinnok.chan@gmail.com
+- 📫 Reach him in [LinkedIn][([http://www.linkedin.com/in/r3122k]) or by email verma.rohan@northeastern.edu
   
 
 
-**Interest:** Apart from being a data enthusiast, he love Janpanese culture, nature exploration, jujitsu and cooking!
+**Interest:** Apart from being a data enthusiast, he love to try new coffee places, nature exploration and cooking!
+
 
 ## 🏅 Tech Certifications:
 - [![PowerBI](https://img.shields.io/badge/Power_BI-Power_BI_Data_Analyst_Associate-FEB800)](https://www.credly.com/badges/271b6df2-3979-436d-b97e-3303f83e0a89/linked_in_profile)
-- [![Tableau](https://img.shields.io/badge/Tableau-Tableau_Certified_Data_Analyst-e3455d)](https://www.credly.com/badges/bf64e896-cbf5-40d9-93d9-03d76d29e77d/linked_in_profile)
-- [![Snowflake](https://img.shields.io/badge/Snowflake-SnowPro_Core_Certification-649dd6)](https://www.credly.com/badges/d9bf93ec-b28c-4cd8-b4b1-23a15cd7b00a)
-- [![Azure](https://img.shields.io/badge/Azure-Data_Fundamental-blue)](https://learn.microsoft.com/api/credentials/share/en-us/StanleyKinnokChan-5064/F8C7864EBE86463D?sharingId=3325A3B941B41AB0)
-- [![AWS](https://img.shields.io/badge/AWS-AWS_Certified_Solutions_Architect_–_Associate_Certification-ff913d)](https://www.credly.com/badges/eda511b6-21d5-4fbb-8296-46e24fde3f80/public_url)
-- [![Alteryx](https://img.shields.io/badge/Alteryx-Alteryx_Designer_Expert_Certified-blue)](https://www.credly.com/badges/07f2b25d-3761-4b56-a5a3-703c807dcc11/public_url)
-- [![Alteryx](https://img.shields.io/badge/Alteryx-Alteryx_Server_Administration-blue)](https://www.credly.com/badges/07f2b25d-3761-4b56-a5a3-703c807dcc11/public_url)
-- [![Databrick](https://img.shields.io/badge/Databrick-Data_Engineer_Associate-ff913d)](https://www.credly.com/badges/07f2b25d-3761-4b56-a5a3-703c807dcc11/public_url)
+- [![IBM](https://img.shields.io/badge/IBM-Data_Science_Professional_Certificate-0066CC)](https://www.credly.com/badges/3e1e8f2a-9b64-4b8f-bd38-6c6f5a2b19f4/linked_in_profile)
+-
+
 
 ## 🛠️ Language and Tools:
 **Language**
@@ -78,7 +77,3 @@ Stanley is an UK-based data consultant who adepts at navigating both data analys
 https://assets.leetcode.com/static_assets/others/Premium_SQL_50.gif
 
 
--->
-
-## 🏆 Challenges:
-See how I did 100 SQL questions in Leetcode! <a href="https://github.com/StanleyKinnokChan/SQL/tree/main/Leetcode_SQL50" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/082d24df79b20aa88e10238938ceef5b96619c0e20c3cca349a82494a236afa0/68747470733a2f2f6173736574732e6c656574636f64652e636f6d2f7374617469635f6173736574732f6f74686572732f546f705f53514c5f35302e676966" alt="Leetcode SQL 50" width="40" height="40"/></a> <a href="https://github.com/StanleyKinnokChan/SQL/tree/main/Leetcode_Advance_SQL50" target="_blank" rel="noreferrer"> <img src="https://assets.leetcode.com/static_assets/others/Premium_SQL_50.gif" alt="Leetcode Advance SQL 50" width="40" height="40"/></a>
