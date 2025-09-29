@@ -19,7 +19,7 @@
                                                       
 ### Hey there, this is Rohan - The Data Analyst/Engineer/Scientist 👋 
 
-Rohan is a US-based data consultant with experience across both data analysis and engineering. He enjoys turning complex data into clear insights and building reliable systems that help businesses make better decisions. Known for his adaptability and strong learning mindset, Rohan has earned positive feedback from colleagues, clients, and leadership for consistently delivering high-quality results. He’s passionate about continuous growth and makes it a priority to stay current with the latest tools and trends in the fast-moving world of data technology.
+Rohan is a US-based data analytics student with experience across both data analysis and engineering. He enjoys turning complex data into clear insights and building reliable systems that help businesses make better decisions. He’s passionate about continuous growth and makes it a priority to stay current with the latest tools and trends in the fast-moving world of data technology.
 
 
 <img align="right" alt="GIF" src="https://i.giphy.com/xT9C25UNTwfZuk85WP.webp" width="300px"/>
