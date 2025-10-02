@@ -25,7 +25,7 @@ Rohan is a US-based data analytics student with experience across both data anal
 <img align="right" alt="GIF" src="https://i.giphy.com/xT9C25UNTwfZuk85WP.webp" width="300px"/>
   
 
-- 🔭 He's currently sharpening his skill on both data analystics and enginneering
+- 🔭 He's currently sharpening his skill on both data analytics and enginneering
   
 - 💬 He's open to discuss about BI solutions, dashboard, and ETL pipeline
   
