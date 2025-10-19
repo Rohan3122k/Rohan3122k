@@ -17,7 +17,7 @@
 
 ```
                                                       
-### Hey there, this is Rohan - The Data Analyst/Engineer/Scientist 👋 
+### Hey there, this is Rohan  👋 
 
 **Data Analytics Engineer | Electrical Engineer Turned Data Problem Solver**
 
