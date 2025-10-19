@@ -54,13 +54,9 @@ Outside of work, I’m probably trying a new coffee shop, experimenting in the k
   
 
 
-**Interest:** Apart from being a data enthusiast, he love to try new coffee places, nature exploration and cooking!
-
-
 
 ## 🏅 Tech Certifications
 
-- [![Power BI](https://img.shields.io/badge/Power_BI-Data_Analyst_Associate-FEB800?logo=power-bi&logoColor=white)](https://www.credly.com/badges/271b6df2-3979-436d-b97e-3303f83e0a89/linked_in_profile)  
 - [![IBM](https://img.shields.io/badge/IBM-Data_Science_Certificate-1F70C1?logo=ibm&logoColor=white)](https://www.credly.com/badges/bf64e896-cbf5-40d9-93d9-03d76d29e77d/linked_in_profile)  
 - [![Google](https://img.shields.io/badge/Google-Data_Analytics_Certificate-34A853?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/your-google-certificate-link)  
 
