@@ -19,15 +19,35 @@
                                                       
 ### Hey there, this is Rohan - The Data Analyst/Engineer/Scientist 👋 
 
-Rohan is a US-based data analytics student with experience across both data analysis and engineering. He enjoys turning complex data into clear insights and building reliable systems that help businesses make better decisions. He’s passionate about continuous growth and makes it a priority to stay current with the latest tools and trends in the fast-moving world of data technology.
+**Data Analytics Engineer | Electrical Engineer Turned Data Problem Solver**
+
+I turn messy data into clear insights that help businesses make smarter decisions. With a background in electrical engineering and hands-on experience across the data stack, I design and build scalable data solutions—from raw ingestion to impactful dashboards.
+
+Whether I’m building ETL pipelines, analyzing trends, or developing predictive models, I focus on solving real problems with precision and purpose.
+
+**What I do best:**
+
+* Transforming unstructured data into actionable insights
+* Building end-to-end workflows with Python, SQL, and Pandas
+* Creating dashboards in Power BI and Tableau
+* Deploying scalable solutions using AWS and cloud tools
+* Applying machine learning and statistics for forecasting and strategy
+
+**Recent projects:**
+
+* Analyzing U.S. healthcare and financial sentiment trends
+* Building large-scale data pipelines for public datasets
+* Creating interactive dashboards for policy and economic impact (all on GitHub)
+
+What sets me apart? I bridge the gap between technical depth and business context. I don’t just analyze data—I tell stories that drive decisions. I thrive in cross-functional teams and never stop learning.
+
+Outside of work, I’m probably trying a new coffee shop, experimenting in the kitchen, or helping others decode complex data.
+
+**Let’s connect**—especially if you're working on a project where data meets real-world impact.
 
 
 <img align="right" alt="GIF" src="https://i.giphy.com/xT9C25UNTwfZuk85WP.webp" width="300px"/>
   
-
-- 🔭 He's currently sharpening his skill on both data analytics and enginneering
-  
-- 💬 He's open to discuss about BI solutions, dashboard, and ETL pipeline
   
 - 📫 Reach him on [LinkedIn](https://www.linkedin.com/in/r3122k) or by email at [verma.rohan@northeastern.edu](mailto:verma.rohan@northeastern.edu).
 
