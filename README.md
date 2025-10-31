@@ -49,7 +49,8 @@ Outside of work, I’m probably trying a new coffee shop, experimenting in the k
 <img align="right" alt="GIF" src="https://i.giphy.com/xT9C25UNTwfZuk85WP.webp" width="300px"/>
   
   
-- 📫 Reach him on [LinkedIn](https://www.linkedin.com/in/r3122k) or by email at [verma.rohan@northeastern.edu](mailto:verma.rohan@northeastern.edu).
+- 📫 Reach him on [LinkedIn](https://www.linkedin.com/in/rohanv3122/) | [Tableau Public](https://public.tableau.com/app/profile/rohan.verma7748/vizzes) | 📧 verma.rohan@northeastern.edu
+
 
   
 
