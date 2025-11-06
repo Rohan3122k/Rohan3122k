@@ -33,6 +33,9 @@ Whether I’m building ETL pipelines, analyzing trends, or developing predictive
 * Deploying scalable solutions using AWS and cloud tools
 * Applying machine learning and statistics for forecasting and strategy
 
+
+<img align="right" alt="GIF" src="https://i.giphy.com/xT9C25UNTwfZuk85WP.webp" width="300px"/>
+
 **Recent projects:**
 
 * Analyzing U.S. healthcare and financial sentiment trends
@@ -46,7 +49,6 @@ Outside of work, I’m probably trying a new coffee shop, experimenting in the k
 **Let’s connect**—especially if you're working on a project where data meets real-world impact.
 
 
-<img align="right" alt="GIF" src="https://i.giphy.com/xT9C25UNTwfZuk85WP.webp" width="300px"/>
   
   
 - 📫 Reach him on [LinkedIn](https://www.linkedin.com/in/rohanv3122/) | [Tableau Public](https://public.tableau.com/app/profile/rohan.verma7748/vizzes) | 📧 verma.rohan@northeastern.edu
