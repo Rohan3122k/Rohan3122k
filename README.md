@@ -55,6 +55,9 @@ Outside of work, I’m probably trying a new coffee shop, experimenting in the k
   
 
 
+  
+
+
 
 ## 🏅 Tech Certifications
 
