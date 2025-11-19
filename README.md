@@ -42,16 +42,16 @@ Whether I’m building ETL pipelines, analyzing trends, or developing predictive
 * Building large-scale data pipelines for public datasets
 * Creating interactive dashboards for policy and economic impact (all on GitHub)
 
-What sets me apart? I bridge the gap between technical depth and business context. I don’t just analyze data—I tell stories that drive decisions. I thrive in cross-functional teams and never stop learning.
+What sets me apart? I bridge the gap between technical depth and business context. I don’t just analyze data, I tell stories that drive decisions. I thrive in cross-functional teams and never stop learning.
 
-Outside of work, I’m probably trying a new coffee shop, experimenting in the kitchen, or helping others decode complex data.
+Outside of work, I’m probably trying a new coffee place, experimenting in the kitchen, or helping others decode complex data.
 
-**Let’s connect**—especially if you're working on a project where data meets real-world impact.
+**Let’s connect** especially if you're working on a project where data meets real-world impact.
 
 
   
   
-- 📫 Reach him on [LinkedIn](https://www.linkedin.com/in/rohanv3122/) | [Tableau Public](https://public.tableau.com/app/profile/rohan.verma7748/vizzes) | 📧 verma.rohan@northeastern.edu
+- 📫 Reach Me on [LinkedIn](https://www.linkedin.com/in/rohanv3122/) | [Tableau Public](https://public.tableau.com/app/profile/rohan.verma7748/vizzes) | 📧 verma.rohan@northeastern.edu
 
 
   
