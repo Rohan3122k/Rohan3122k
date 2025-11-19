@@ -21,7 +21,7 @@
 
 **Data Analytics Engineer | Electrical Engineer Turned Data Problem Solver**
 
-I turn messy data into clear insights that help businesses make smarter decisions. With a background in electrical engineering and hands-on experience across the data stack, I design and build scalable data solutions—from raw ingestion to impactful dashboards.
+I turn messy data into clear insights that help businesses make smarter decisions. With a background in electrical engineering and hands-on experience across the data stack, I design and build scalable data solutions from raw ingestion to impactful dashboards.
 
 Whether I’m building ETL pipelines, analyzing trends, or developing predictive models, I focus on solving real problems with precision and purpose.
 
